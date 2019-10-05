@@ -4,4 +4,5 @@ Git is free software under GP
 creatint a new branch is quick deV
 =======
 master test
->>>>>>> master
+>>>>>>> maste
+creating a new branch is quick and simpler
